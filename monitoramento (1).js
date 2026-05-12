@@ -6,4 +6,5 @@ if (temp > LIMITE) {
 console.log("ALERTA: LIMITE EXCEDIDO!");
 } else {
 console.log("Sistema normal.");
+console.log ("Monitoramento concluído.");
 }
