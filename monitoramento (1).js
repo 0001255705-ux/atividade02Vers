@@ -8,3 +8,4 @@ console.log("ALERTA: LIMITE EXCEDIDO!");
 console.log("Sistema normal.");
 console.log ("Monitoramento concluído.");
 }
+//ONE PIECE É O MELHOR ANIME DO MUNDO
